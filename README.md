@@ -187,4 +187,7 @@ jupyter notebook "2-_KAKUMA_DIFFERENTIATED_ASSISTANCE.ipynb"
 
 ---
 
+
+![Overview](images/dashboard_overview.png)
+
 *This project uses a synthetic dataset modeled on real-world humanitarian data for analytical and educational purposes.*
